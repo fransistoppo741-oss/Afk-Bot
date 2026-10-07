@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
-    "type": "microsoft"
+    "username": "Eran",
+    "password": "fransistoppo",
+    "type": "offline"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "leef.play.hosting",
+    "port": 25810,
+    "version": "1.21.11"
   },
 
   "position": {
